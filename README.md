@@ -17,4 +17,4 @@ Skills: Python/Django/Docker/MySql
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Suhan9)  
 
-![Profile views](https://gpvc.arturio.dev/Suhan9)  
+
